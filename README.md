@@ -1,4 +1,5 @@
 # BlogAngularDos
+Este proyecto es el front del blog creado con angular: https://github.com/luismiguelgomez/Blog-Laravel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
